@@ -8,7 +8,7 @@ A React-based pricing tool for e-commerce businesses that models non-linear fulf
 
 ## Why This Exists
 
-Most e-commerce margin calculators treat shipping as a flat rate. In reality, fulfillment costs are **non-linear** — they vary by shipment weight, shipping zone, and whether you're sending individual DTC orders or palletized B2B boxes. A 200-unit box shipping to Zone 2 (nearby) costs a fraction of the same box going to Zone 10 (cross-country). This tool models that accurately.
+Most e-commerce margin calculators treat shipping as a flat rate. In reality, fulfillment costs vary by shipment weight, shipping zone, and whether you're sending individual DTC orders or palletized B2B boxes. A 200-unit box shipping to Zone 2 (nearby) costs a fraction of the same box going to Zone 10 (cross-country). This tool models that accurately for small businesses.
 
 ## Features
 
